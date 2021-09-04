@@ -16,14 +16,6 @@
 		"thumbnail" : "null", 
 		"created_at" : "29-07-06 12:26:26", 
 		"updated_at" : "2019-07-06 12:26:26"
-	  },
-	  {
-		"id":4,
-		"quote":"Anlayana sivri sinek saz, anlamayana davul zurna az.",  
-		"author" : "Filiz Yıldıztekin", 
-		"thumbnail" : "null", 
-		"created_at" : "29-07-06 12:26:26", 
-		"updated_at" : "2019-07-06 12:26:26"
 	  }
   ]
 }
